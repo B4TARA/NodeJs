@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\public\\css",
+    "\\public\\js",
+    "\\views",
+    "\\views\\layouts",
+    "\\views\\partials"
+  ],
+  "SelectedNode": "\\views\\update.handlebars",
+  "PreviewInSolutionExplorer": false
+}

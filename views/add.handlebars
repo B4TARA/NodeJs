@@ -1,0 +1,9 @@
+    {{#each phones}}
+        {{>record}}
+    {{/each}}
+<br>
+<input type="text" name="fullName" placeholder="name">
+<input type="text" name="phone" placeholder="phone">
+
+<button class="bot8" onclick="addNewRecord()">Добавить</button>
+<button class="bot8" onclick="{{goBack}}">Отказаться</button>
